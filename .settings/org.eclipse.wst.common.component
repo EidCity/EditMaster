@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="EditMaster">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/POI"/>
+                
+        <dependent-module archiveName="servlet-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-9.0.80-windows-x64/apache-tomcat-9.0.80/lib/servlet-api.jar">
+                        
+            <dependency-type>uses</dependency-type>
+                    
+        </dependent-module>
+        <dependent-module archiveName="tomcat-util-scan.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-util-scan.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="catalina-ant.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/catalina-ant.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jaspic-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/jaspic-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-ja.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-ja.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="servlet-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/servlet-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-es.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-es.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jsp-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/jsp-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ecj-4.6.3.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/ecj-4.6.3.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-ko.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-ko.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-coyote.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-coyote.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-websocket.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-websocket.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="catalina-tribes.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/catalina-tribes.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-dbcp.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-dbcp.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="catalina-ha.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/catalina-ha.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-ru.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-ru.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="websocket-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/websocket-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="catalina-storeconfig.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/catalina-storeconfig.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-jdbc.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-jdbc.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-util.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-util.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-zh-CN.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-zh-CN.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasper-el.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/jasper-el.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="annotations-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/annotations-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-jni.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-jni.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jasper.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/jasper.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-de.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-de.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="tomcat-i18n-fr.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/tomcat-i18n-fr.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="catalina.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/catalina.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="el-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/asuse/Desktop/apache-tomcat-8.5.93-windows-x64 - Copy/apache-tomcat-8.5.93/lib/el-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                        
+        
+        <property name="context-root" value="EditMaster"/>
+                        
+        
+        <property name="java-output-path" value="/EditMaster/build/classes"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>
